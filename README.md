@@ -2,12 +2,7 @@
 
 Full-stack AI agent that tailors a resume to any job description. Frontend is a polished Next.js app on Vercel; backend is FastAPI with PydanticAI running an OpenRouter model.
 
-## Live deliverables to provide
-- Deployed frontend URL (Vercel recommended)
-- Deployed backend URL (Render/Railway/Fly work well)
-- Public GitHub repo
-- 1-min Loom with face + voice explaining the flow
-- Resume upload lives in the app (PDF parsing server-side)
+
 
 ## Stack
 - Frontend: Next.js (App Router) + Tailwind
